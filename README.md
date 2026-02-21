@@ -1,4 +1,4 @@
-Hey there! 👋
+# **Hey there!** 👋
 
 I'm Sankalp Mehta, a backend-focused computer science student.
 
@@ -8,8 +8,8 @@ My primary tech stack includes Java, Spring Boot, C/C++, JavaScript, Node.js, Ex
 
 Fun Facts:
 
-  -> I like playing Basketball and football.
-  -> One piece is my favorite anime.
-  -> Hobbies: Playing Video Games, building things.
+  - I like playing Basketball and football.
+  - One piece is my favorite anime.
+  - Hobbies: Playing Video Games, building things.
 
 Always learning, always building 🚀

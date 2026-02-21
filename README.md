@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**saMM7111/saMM7111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sankalp Mehta, a backend-focused computer science student.
 
-Here are some ideas to get you started:
+I enjoy building reliable systems, working with APIs, and understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary tech stack includes Java, Spring Boot, C/C++, JavaScript, Node.js, Express.js, SQL, HTML, CSS.
+
+Fun Facts:
+
+  -> I like playing Basketball and football.
+  -> One piece is my favorite anime.
+  -> Hobbies: Playing Video Games, building things.
+
+Always learning, always building 🚀

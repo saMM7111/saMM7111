@@ -6,7 +6,7 @@ I enjoy building reliable systems, working with APIs, and understanding how thin
 
 My primary tech stack includes Java, Spring Boot, C/C++, JavaScript, Node.js, Express.js, SQL, HTML, CSS.
 
-Fun Facts:
+Interests:
 
   - I like playing Basketball and football.
   - One piece is my favorite anime.

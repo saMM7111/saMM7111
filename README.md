@@ -3,20 +3,20 @@
 
 👋 I'm a **Computer Science student** passionate about building software and exploring technologies like **Java**, **Spring Boot** and **AWS**.
 
----
+
 
 ## 📖 Currently
 
 I'm studying **Computer Science**, with a focus on designing and building **Microservices architectures** — breaking down applications into independently deployable services, managing inter-service communication, and deploying them using containerization and cloud infrastructure.
 
----
+
 
 ## 📫 Contact
 
 - Email: [sammehta1000@gmail.com](mailto:sammehta1000@gmail.com)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/sankalp-mehta-794433166/)
 
----
+
 
 ## 🛠️ Tech Stack
 

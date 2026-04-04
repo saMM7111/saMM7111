@@ -1,11 +1,13 @@
 # 🧑‍💻 Sankalp Mehta – Computer Science Student
 
 
+
 👋 I'm a **Computer Science student** passionate about building software and exploring technologies like **Java**, **Spring Boot** and **AWS**.
 
 
 
 ## 📖 Currently
+
 
 I'm studying **Computer Science**, with a focus on designing and building **Microservices architectures** — breaking down applications into independently deployable services, managing inter-service communication, and deploying them using containerization and cloud infrastructure.
 
@@ -13,12 +15,14 @@ I'm studying **Computer Science**, with a focus on designing and building **Micr
 
 ## 📫 Contact
 
+
 - Email: [sammehta1000@gmail.com](mailto:sammehta1000@gmail.com)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/sankalp-mehta-794433166/)
 
 
 
 ## 🛠️ Tech Stack
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
